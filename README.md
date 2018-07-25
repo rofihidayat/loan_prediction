@@ -6,4 +6,4 @@
 Klasifikasi apakah Bank menerima aplikasi yang diajukan untuk peminjaman dengan metode Random Forest.
 <br>
 <br>
-Performa pada data uji: 76,99%
+Performa pada data uji: 78,76%
